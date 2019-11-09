@@ -4,6 +4,7 @@
 tap homebrew/core
 brew gettext
 brew git
+brew icu4c
 brew libtermkey
 brew libuv
 brew libvterm
@@ -11,6 +12,7 @@ brew luajit
 brew mas
 brew msgpack
 brew neovim
+brew node
 brew pcre2
 brew unibilium
 
