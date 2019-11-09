@@ -13,6 +13,7 @@ brew mas
 brew msgpack
 brew neovim
 brew node
+brew nvm
 brew pcre2
 brew unibilium
 
@@ -21,6 +22,7 @@ tap homebrew/bundle
 tap homebrew/cask
 cask alfred
 cask google-chrome
+cask postman
 
 tap rcmdnk/file
 brew brew-file
