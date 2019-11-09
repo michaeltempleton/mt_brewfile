@@ -25,6 +25,7 @@ brew brew-file
 
 # Other Cask applications
 cask appcleaner
+cask iterm2
 
 # App Store applications
 appstore 425264550 Disk Speed Test (3.2)

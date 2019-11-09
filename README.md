@@ -1,4 +1,4 @@
-# mt_brewfile
+# Brewfile
 
 Package list for [homebrew](http://brew.sh/).
 
