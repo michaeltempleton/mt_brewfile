@@ -24,15 +24,19 @@ tap homebrew/bundle
 tap homebrew/cask
 cask alfred
 cask google-chrome
-cask java
+cask iterm2
+cask lastpass
+cask postman
 
 tap rcmdnk/file
 brew brew-file
 
 # Other Cask applications
 cask appcleaner
-cask iterm2
-cask postman
+cask intellij-idea
+cask java
+cask macs-fan-control
+cask visual-studio-code
 
 # App Store applications
 appstore 425264550 Disk Speed Test (3.2)
